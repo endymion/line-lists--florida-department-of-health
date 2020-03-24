@@ -3,9 +3,12 @@ Broward, 77, Male, Unknown, Yes, FL resident, 03/16/20
 Broward, 96, Female, Unknown, Unknown, FL resident, 03/19/20
 Broward, 92, Male, No, Unknown, FL resident, 03/20/20
 Clay, 70, Male, No, Yes, FL resident, 03/14/20
+Clay, 82, Male, Yes, FL; UNKNOWN No, FL resident, 03/20/20
 Duval, 83, Male, No, Yes, FL resident, 03/13/20
 Duval, 88, Male, No, Yes, FL resident, 03/15/20
+Duval, 84, Male, No, Yes, FL resident, 03/21/20
 Lee, 77, Female, Yes, Dominican Republic Yes, FL resident, 03/07/20
 Lee, 77, Male, No, Yes, FL resident, 03/13/20
 Manatee, 70, Male, No, No, FL resident, 03/16/20
 Orange, 79, Female, Unknown, No, FL resident, 03/15/20
+Broward, 51, Male, No, Yes, FL resident, 03/23/20
