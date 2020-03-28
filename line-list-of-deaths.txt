@@ -2,19 +2,21 @@ County, Age, Gender, Travel related, Travel detail and contact with a convirmed 
 Broward, 74, Male, No, Yes, FL resident, 03/15/20
 Broward, 77, Male, Unknown, Yes, FL resident, 03/16/20
 Broward, 94, Male, No, Unknown, FL resident, 03/19/20
-Broward, 96, Female, Unknown, Unknown, FL resident, 03/19/20
+Broward, 96, Female, Unknown, Yes, FL resident, 03/19/20
+Broward, 92, Male, No, Yes, FL resident, 03/20/20
 Broward, 75, Male, No, Yes, FL resident, 03/20/20
-Broward, 92, Male, No, Unknown, FL resident, 03/20/20
 Broward, 70, Male, Yes, BRAZIL; FL No, FL resident, 03/22/20
-Broward, 84, Female, No, Unknown, FL resident, 03/24/20
-Broward, 93, Female, Unknown, , FL resident, 03/25/20
+Broward, 84, Female, No, Yes, FL resident, 03/24/20
+Broward, 93, Female, Unknown, Yes, FL resident, 03/25/20
 Broward, 79, Female, Unknown, Yes, FL resident, 03/25/20
+Broward, 67, Male, Yes, NY, FL resident, 03/27/20
 Citrus, 80, Male, Yes, DE Yes, FL resident, 03/18/20
 Clay, 70, Male, No, Yes, FL resident, 03/14/20
 Clay, 82, Male, No, Yes, FL resident, 03/20/20
 Clay, 65, Male, No, Yes, FL resident, 03/24/20
 Clay, 77, Female, No, No, FL resident, 03/25/20
 Dade, 40, Male, No, Yes, FL resident, 03/22/20
+Dade, 77, Male, No, Unknown, FL resident, 03/26/20
 Dade, 79, Male, Unknown, Unknown, FL resident, 03/27/20
 Duval, 83, Male, No, Yes, FL resident, 03/13/20
 Duval, 88, Male, No, Yes, FL resident, 03/15/20
@@ -27,11 +29,17 @@ Lee, 77, Male, No, Yes, FL resident, 03/13/20
 Lee, 67, Male, No, Yes, FL resident, 03/19/20
 Lee, 39, Male, Unknown, Unknown, FL resident, 03/25/20
 Lee, 94, Male, No, No, FL resident, 03/26/20
+Lee, 77, Male, No, Unknown, FL resident, 03/27/20
 Manatee, 70, Male, No, Yes, FL resident, 03/16/20
 Orange, 79, Female, Unknown, No, FL resident, 03/15/20
 Orange, 73, Male, No, Unknown, FL resident, 03/17/20
 Orange, 90, Male, No, , FL resident, 03/24/20
+Pasco, 67, Male, Yes, FL; NY Yes, FL resident, 03/14/20
 Pasco, 71, Female, Yes, VA Yes, FL resident, 03/22/20
+Pinellas, 52, Male, Yes, BULGARIA; GERMANY; UT No, FL resident, 03/18/20
 Pinellas, 67, Male, No, No, FL resident, 03/21/20
+Pinellas, 83, Female, No, Yes, FL resident, 03/23/20
+Pinellas, 64, Male, No, No, FL resident, 03/26/20
 Sarasota, 81, Male, Yes, NY No, FL resident, 03/23/20
 Sarasota, 82, Male, No, No, FL resident, 03/24/20
+Volusia, 65, Male, No, No, FL resident, 03/26/20
