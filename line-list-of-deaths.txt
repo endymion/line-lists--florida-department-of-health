@@ -153,13 +153,15 @@ Clay, 77, Female, No, No, FL resident, 03/25/20
 Clay, 54, Male, No, No, FL resident, 03/25/20
 Clay, 92, Female, No, Yes, FL resident, 03/29/20
 Clay, 76, Male, No, Unknown, FL resident, 04/06/20
+Clay, 75, Male, No, Yes, FL resident, 04/07/20
 Clay, 91, Female, No, No, FL resident, 04/08/20
+Clay, 77, Female, No, Yes, FL resident, 04/09/20
 Collier, 94, Female, Yes, No, FL resident, 03/27/20
 Collier, 61, Male, Yes, HAITI; MEXICO Yes, FL resident, 03/29/20
 Collier, 81, Male, Yes, Unknown, FL resident, 03/30/20
 Collier, 73, Male, No, Yes, FL resident, 03/30/20
 Collier, 90, Female, No, Yes, FL resident, 04/09/20
-Collier, 85, Male, No, Unknown, FL resident, 04/10/20
+Collier, 85, Male, No, Yes, FL resident, 04/10/20
 Collier, 81, Female, No, Unknown, FL resident, 04/14/20
 Collier, 32, Female, No, Yes, FL resident, 04/16/20
 Dade, 56, Male, Yes, NY Yes, FL resident, 03/16/20
@@ -356,10 +358,14 @@ Dade, 58, Male, Unknown, , FL resident, 04/14/20
 Dade, 87, Male, Unknown, , FL resident, 04/14/20
 Dade, 69, Female, Unknown, , FL resident, 04/14/20
 Dade, 81, Male, Unknown, , FL resident, 04/14/20
+Dade, 93, Female, No, , FL resident, 04/15/20
 Dade, 87, Male, Unknown, , FL resident, 04/15/20
 Dade, 96, Female, Unknown, , FL resident, 04/16/20
 Dade, 78, Male, No, , FL resident, 04/16/20
 Dade, 72, Male, No, No, FL resident, 04/18/20
+Dade, 26, Male, No, Unknown, FL resident, 04/18/20
+Dade, 66, Female, Unknown, Unknown, FL resident, 04/19/20
+Dade, 72, Male, Unknown, , FL resident, 04/19/20
 Desoto, 91, Male, No, Yes, FL resident, 03/27/20
 Desoto, 77, Male, No, Yes, FL resident, 04/03/20
 Desoto, 65, Male, No, Yes, FL resident, 04/06/20
@@ -447,7 +453,7 @@ Lee, 86, Male, Yes, NJ Yes, FL resident, 04/08/20
 Lee, 94, Female, Yes, NJ Yes, FL resident, 04/08/20
 Lee, 70, Male, No, Unknown, FL resident, 04/09/20
 Lee, 93, Unknown, No, No, FL resident, 04/11/20
-Lee, 97, Female, Unknown, Unknown, FL resident, 04/13/20
+Lee, 97, Female, No, Yes, FL resident, 04/13/20
 Lee, 93, Male, Unknown, , FL resident, 04/14/20
 Lee, 61, Unknown, Unknown, , FL resident, 04/14/20
 Leon, 62, Male, No, Yes, FL resident, 04/09/20
@@ -493,6 +499,7 @@ Monroe, 55, Male, No, Yes, FL resident, 03/25/20
 Monroe, 75, Male, No, No, FL resident, 03/25/20
 Monroe, 55, Male, No, Yes, FL resident, 03/26/20
 Okaloosa, 87, Male, No, Yes, FL resident, 03/27/20
+Okaloosa, 90, Male, No, Yes, FL resident, 04/19/20
 Orange, 79, Female, Unknown, No, FL resident, 03/15/20
 Orange, 73, Male, No, Yes, FL resident, 03/17/20
 Orange, 82, Female, No, Yes, FL resident, 03/20/20
