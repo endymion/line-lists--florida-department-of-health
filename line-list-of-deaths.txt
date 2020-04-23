@@ -7,7 +7,7 @@ Bay, 72, Female, No, Unknown, FL resident, 04/02/20
 Bay, 93, Male, No, Yes, FL resident, 04/03/20
 Bradford, 78, Female, Unknown, Unknown, FL resident, 03/29/20
 Bradford, 85, Female, No, Unknown, FL resident, 04/07/20
-Brevard, 74, Male, No, Unknown, FL resident, 03/27/20
+Brevard, 74, Male, No, Yes, FL resident, 03/27/20
 Brevard, 94, Male, No, No, FL resident, 04/01/20
 Brevard, 76, Female, No, Unknown, FL resident, 04/03/20
 Brevard, 79, Male, No, Unknown, FL resident, 04/03/20
@@ -24,10 +24,11 @@ Broward, 92, Male, No, Yes, FL resident, 03/20/20
 Broward, 75, Male, No, Yes, FL resident, 03/20/20
 Broward, 95, Male, No, Unknown, FL resident, 03/21/20
 Broward, 86, Male, No, Yes, FL resident, 03/21/20
+Broward, 75, Male, Yes, FL; HONDURAS No, FL resident, 03/22/20
 Broward, 70, Male, Unknown, , FL resident, 03/22/20
 Broward, 80, Female, No, No, FL resident, 03/23/20
 Broward, 96, Female, No, Yes, FL resident, 03/23/20
-Broward, 83, Female, No, Yes, FL resident, 03/23/20
+Broward, 83, Female, Yes, CA; FL Yes, FL resident, 03/23/20
 Broward, 76, Male, No, No, FL resident, 03/23/20
 Broward, 78, Male, Unknown, Yes, FL resident, 03/24/20
 Broward, 84, Female, No, Yes, FL resident, 03/24/20
@@ -44,13 +45,13 @@ Broward, 79, Female, Unknown, Yes, FL resident, 03/25/20
 Broward, 78, Female, No, Yes, FL resident, 03/25/20
 Broward, 65, Male, Unknown, Unknown, FL resident, 03/26/20
 Broward, 94, Female, Unknown, , FL resident, 03/26/20
-Broward, 74, Male, Unknown, Yes, FL resident, 03/27/20
+Broward, 74, Male, No, Yes, FL resident, 03/27/20
 Broward, 39, Male, Yes, FL; IL Unknown, FL resident, 03/27/20
 Broward, 67, Male, Yes, NY Yes, FL resident, 03/27/20
-Broward, 94, Female, Unknown, Yes, FL resident, 03/27/20
+Broward, 94, Female, No, Yes, FL resident, 03/27/20
 Broward, 80, Male, No, Yes, FL resident, 03/27/20
 Broward, 64, Male, No, Yes, FL resident, 03/27/20
-Broward, 83, Male, Unknown, Yes, FL resident, 03/27/20
+Broward, 83, Male, Yes, CO; FL Yes, FL resident, 03/27/20
 Broward, 63, Female, Unknown, Yes, FL resident, 03/28/20
 Broward, 68, Female, Unknown, Unknown, FL resident, 03/28/20
 Broward, 34, Male, No, Unknown, FL resident, 03/28/20
@@ -71,12 +72,12 @@ Broward, 39, Male, Yes, BAHAMAS Yes, FL resident, 04/01/20
 Broward, 77, Female, No, No, FL resident, 04/01/20
 Broward, 74, Male, Unknown, , FL resident, 04/01/20
 Broward, 53, Male, Unknown, Unknown, FL resident, 04/01/20
-Broward, 72, Male, Unknown, , FL resident, 04/01/20
+Broward, 72, Male, No, Unknown, FL resident, 04/01/20
 Broward, 57, Male, Unknown, Unknown, FL resident, 04/01/20
 Broward, 49, Male, No, No, FL resident, 04/01/20
 Broward, 80, Female, Unknown, Unknown, FL resident, 04/01/20
 Broward, 73, Male, Unknown, , FL resident, 04/01/20
-Broward, 65, Female, Unknown, Unknown, FL resident, 04/01/20
+Broward, 65, Female, No, Unknown, FL resident, 04/01/20
 Broward, 82, Female, No, Yes, FL resident, 04/02/20
 Broward, 44, Male, No, , FL resident, 04/02/20
 Broward, 90, Female, Unknown, , FL resident, 04/02/20
@@ -84,7 +85,7 @@ Broward, 80, Female, Yes, NJ Yes, FL resident, 04/02/20
 Broward, 85, Female, Unknown, Unknown, FL resident, 04/02/20
 Broward, 85, Female, Unknown, No, FL resident, 04/03/20
 Broward, 69, Female, No, Unknown, FL resident, 04/03/20
-Broward, 72, Female, Unknown, Unknown, FL resident, 04/03/20
+Broward, 72, Female, No, Unknown, FL resident, 04/03/20
 Broward, 97, Male, Unknown, Unknown, FL resident, 04/03/20
 Broward, 56, Male, No, Yes, FL resident, 04/03/20
 Broward, 93, Female, No, Unknown, FL resident, 04/03/20
@@ -94,7 +95,7 @@ Broward, 72, Male, No, Yes, FL resident, 04/03/20
 Broward, 89, Male, No, Yes, FL resident, 04/04/20
 Broward, 70, Male, Yes, MEXICO Yes, FL resident, 04/04/20
 Broward, 90, Male, No, No, FL resident, 04/04/20
-Broward, 88, Male, Unknown, Unknown, FL resident, 04/04/20
+Broward, 88, Male, No, Unknown, FL resident, 04/04/20
 Broward, 81, Male, No, No, FL resident, 04/04/20
 Broward, 70, Female, No, Unknown, FL resident, 04/04/20
 Broward, 75, Male, Unknown, No, FL resident, 04/04/20
@@ -131,11 +132,14 @@ Broward, 72, Female, No, No, FL resident, 04/10/20
 Broward, 91, Female, No, Yes, FL resident, 04/10/20
 Broward, 90, Male, No, Unknown, FL resident, 04/11/20
 Broward, 66, Male, Unknown, , FL resident, 04/12/20
+Broward, 66, Male, No, No, FL resident, 04/12/20
 Broward, 84, Female, No, No, FL resident, 04/12/20
 Broward, 96, Female, No, Unknown, FL resident, 04/12/20
+Broward, 74, Male, No, Yes, FL resident, 04/12/20
 Broward, 77, Female, Unknown, Unknown, FL resident, 04/12/20
 Broward, 73, Female, No, , FL resident, 04/12/20
 Broward, 86, Female, No, Unknown, FL resident, 04/12/20
+Broward, 72, Male, Yes, COLOMBIA; FL Yes, FL resident, 04/12/20
 Broward, 46, Male, No, No, FL resident, 04/13/20
 Broward, 56, Female, Unknown, , FL resident, 04/13/20
 Broward, 71, Female, Unknown, Unknown, FL resident, 04/13/20
@@ -144,17 +148,28 @@ Broward, 51, Male, Unknown, Unknown, FL resident, 04/13/20
 Broward, 72, Male, No, Unknown, FL resident, 04/13/20
 Broward, 93, Female, No, Yes, FL resident, 04/14/20
 Broward, 71, Female, Unknown, Yes, FL resident, 04/14/20
+Broward, 91, Female, No, Unknown, FL resident, 04/14/20
 Broward, 66, Male, Unknown, , FL resident, 04/14/20
-Broward, 61, Female, Unknown, , FL resident, 04/14/20
+Broward, 61, Female, Unknown, Yes, FL resident, 04/14/20
 Broward, 33, Male, No, Yes, FL resident, 04/15/20
 Broward, 99, Female, Unknown, , FL resident, 04/15/20
 Broward, 72, Female, No, Yes, FL resident, 04/16/20
 Broward, 73, Male, Yes, HAITI Unknown, FL resident, 04/16/20
 Broward, 73, Male, No, Unknown, FL resident, 04/16/20
+Broward, 54, Male, No, Unknown, FL resident, 04/17/20
+Broward, 91, Male, No, Yes, FL resident, 04/19/20
 Broward, 60, Male, Unknown, , FL resident, 04/19/20
-Broward, 75, Female, Unknown, Unknown, FL resident, 04/20/20
+Broward, 75, Female, No, Unknown, FL resident, 04/20/20
 Broward, 48, Female, No, Unknown, FL resident, 04/20/20
 Broward, 53, Female, Unknown, Yes, FL resident, 04/21/20
+Broward, 58, Male, Unknown, Unknown, FL resident, 04/22/20
+Broward, 94, Male, Unknown, , FL resident, 04/22/20
+Broward, 81, Male, Unknown, Yes, FL resident, 04/22/20
+Broward, 86, Male, Unknown, , FL resident, 04/22/20
+Broward, 88, Female, Unknown, , FL resident, 04/22/20
+Broward, 69, Male, Unknown, , FL resident, 04/22/20
+Broward, 82, Male, Unknown, , FL resident, 04/22/20
+Broward, 75, Female, No, Yes, FL resident, 04/22/20
 Charlotte, 93, Female, No, Yes, FL resident, 03/28/20
 Charlotte, 78, Female, Yes, IL Yes, FL resident, 03/28/20
 Charlotte, 77, Male, Unknown, Yes, FL resident, 03/28/20
@@ -165,6 +180,7 @@ Charlotte, 85, Male, No, Yes, FL resident, 04/05/20
 Charlotte, 78, Female, No, Yes, FL resident, 04/06/20
 Charlotte, 79, Female, Unknown, Unknown, FL resident, 04/07/20
 Charlotte, 81, Female, No, No, FL resident, 04/10/20
+Charlotte, 90, Male, No, No, FL resident, 04/10/20
 Charlotte, 88, Female, Unknown, No, FL resident, 04/12/20
 Citrus, 80, Male, Yes, DE Yes, FL resident, 03/18/20
 Citrus, 87, Male, No, No, FL resident, 03/27/20
@@ -174,6 +190,7 @@ Citrus, 73, Female, No, Yes, FL resident, 04/07/20
 Citrus, 88, Male, No, Yes, FL resident, 04/07/20
 Citrus, 75, Male, Yes, FL; UNKNOWN Unknown, FL resident, 04/10/20
 Citrus, 87, Male, No, Yes, FL resident, 04/12/20
+Citrus, 81, Female, No, Yes, FL resident, 04/16/20
 Clay, 70, Male, No, Yes, FL resident, 03/14/20
 Clay, 82, Male, No, Yes, FL resident, 03/20/20
 Clay, 68, Female, No, Yes, FL resident, 03/22/20
@@ -185,13 +202,15 @@ Clay, 76, Male, No, Unknown, FL resident, 04/06/20
 Clay, 75, Male, No, Yes, FL resident, 04/07/20
 Clay, 91, Female, No, No, FL resident, 04/08/20
 Clay, 77, Female, No, Yes, FL resident, 04/09/20
+Clay, 79, Male, No, Yes, FL resident, 04/10/20
 Collier, 94, Female, Yes, No, FL resident, 03/27/20
 Collier, 61, Male, Yes, HAITI; MEXICO Yes, FL resident, 03/29/20
 Collier, 81, Male, Yes, Unknown, FL resident, 03/30/20
 Collier, 73, Male, No, Yes, FL resident, 03/30/20
+Collier, 83, Female, Yes, CARIBBEAN Yes, FL resident, 04/05/20
 Collier, 90, Female, No, Yes, FL resident, 04/09/20
 Collier, 85, Male, No, Yes, FL resident, 04/10/20
-Collier, 81, Female, No, Unknown, FL resident, 04/14/20
+Collier, 81, Female, No, No, FL resident, 04/14/20
 Collier, 88, Female, No, Yes, FL resident, 04/15/20
 Collier, 32, Female, No, Yes, FL resident, 04/16/20
 Collier, 74, Male, No, Yes, FL resident, 04/21/20
@@ -199,7 +218,7 @@ Dade, 56, Male, Yes, NY Yes, FL resident, 03/16/20
 Dade, 88, Male, Unknown, Unknown, FL resident, 03/17/20
 Dade, 71, Female, No, Unknown, FL resident, 03/20/20
 Dade, 69, Male, No, Yes, FL resident, 03/20/20
-Dade, 83, Male, No, Unknown, FL resident, 03/22/20
+Dade, 83, Male, No, Yes, FL resident, 03/22/20
 Dade, 83, Male, No, Yes, FL resident, 03/22/20
 Dade, 67, Male, No, Yes, FL resident, 03/22/20
 Dade, 40, Male, No, Yes, FL resident, 03/22/20
@@ -211,6 +230,7 @@ Dade, 61, Male, No, No, FL resident, 03/24/20
 Dade, 84, Male, No, Yes, FL resident, 03/25/20
 Dade, 75, Male, No, Unknown, FL resident, 03/25/20
 Dade, 81, Female, No, Yes, FL resident, 03/25/20
+Dade, 61, Male, Unknown, Unknown, FL resident, 03/25/20
 Dade, 71, Male, No, No, FL resident, 03/26/20
 Dade, 77, Male, No, Yes, FL resident, 03/26/20
 Dade, 68, Female, No, Yes, FL resident, 03/26/20
@@ -280,6 +300,7 @@ Dade, 78, Male, Unknown, Unknown, FL resident, 04/01/20
 Dade, 75, Male, No, Unknown, FL resident, 04/01/20
 Dade, 67, Female, No, Unknown, FL resident, 04/01/20
 Dade, 47, Male, Unknown, Unknown, FL resident, 04/01/20
+Dade, 69, Female, Unknown, , FL resident, 04/01/20
 Dade, 44, Female, No, Unknown, FL resident, 04/01/20
 Dade, 80, Male, No, No, FL resident, 04/01/20
 Dade, 74, Female, No, Unknown, FL resident, 04/01/20
@@ -302,8 +323,9 @@ Dade, 80, Male, No, Yes, FL resident, 04/02/20
 Dade, 52, Male, No, Unknown, FL resident, 04/02/20
 Dade, 50, Male, No, Yes, FL resident, 04/02/20
 Dade, 64, Male, No, Unknown, FL resident, 04/03/20
-Dade, 58, Male, No, No, FL resident, 04/03/20
+Dade, 58, Male, No, Yes, FL resident, 04/03/20
 Dade, 33, Female, Unknown, , FL resident, 04/03/20
+Dade, 89, Female, Unknown, Unknown, FL resident, 04/03/20
 Dade, 68, Female, Unknown, Unknown, FL resident, 04/03/20
 Dade, 55, Female, Unknown, Unknown, FL resident, 04/03/20
 Dade, 42, Male, No, Yes, FL resident, 04/03/20
@@ -326,9 +348,10 @@ Dade, 52, Male, Unknown, Unknown, FL resident, 04/04/20
 Dade, 49, Male, No, , FL resident, 04/04/20
 Dade, 90, Female, No, Unknown, FL resident, 04/04/20
 Dade, 78, Female, No, Unknown, FL resident, 04/04/20
-Dade, 84, Male, Unknown, Unknown, FL resident, 04/04/20
+Dade, 84, Male, No, Unknown, FL resident, 04/04/20
 Dade, 58, Male, Unknown, , FL resident, 04/04/20
 Dade, 55, Female, Unknown, , FL resident, 04/04/20
+Dade, 79, Male, No, Unknown, FL resident, 04/04/20
 Dade, 31, Male, Unknown, Unknown, FL resident, 04/04/20
 Dade, 68, Female, No, No, FL resident, 04/05/20
 Dade, 87, Male, No, Unknown, FL resident, 04/05/20
@@ -351,6 +374,7 @@ Dade, 73, Female, No, Unknown, FL resident, 04/06/20
 Dade, 72, Female, No, Yes, FL resident, 04/06/20
 Dade, 82, Female, Unknown, Unknown, FL resident, 04/06/20
 Dade, 68, Male, No, Unknown, FL resident, 04/06/20
+Dade, 76, Male, No, No, FL resident, 04/07/20
 Dade, 91, Male, No, No, FL resident, 04/07/20
 Dade, 50, Male, Unknown, Unknown, FL resident, 04/07/20
 Dade, 95, Male, No, Yes, FL resident, 04/07/20
@@ -363,14 +387,15 @@ Dade, 91, Male, Unknown, Unknown, FL resident, 04/07/20
 Dade, 85, Male, Unknown, Unknown, FL resident, 04/07/20
 Dade, 56, Male, Yes, IL Yes, FL resident, 04/07/20
 Dade, 73, Male, No, Unknown, FL resident, 04/08/20
+Dade, 84, Female, No, Yes, FL resident, 04/08/20
 Dade, 44, Male, No, Yes, FL resident, 04/08/20
 Dade, 57, Female, No, No, FL resident, 04/08/20
 Dade, 68, Female, Unknown, , FL resident, 04/08/20
 Dade, 92, Male, No, Unknown, FL resident, 04/08/20
 Dade, 66, Female, No, Unknown, FL resident, 04/08/20
-Dade, 63, Male, No, Unknown, FL resident, 04/08/20
 Dade, 68, Male, No, No, FL resident, 04/08/20
 Dade, 91, Female, No, Unknown, FL resident, 04/08/20
+Dade, 87, Male, No, Unknown, FL resident, 04/08/20
 Dade, 91, Male, No, Unknown, FL resident, 04/08/20
 Dade, 95, Female, No, Yes, FL resident, 04/09/20
 Dade, 38, Female, Unknown, , FL resident, 04/09/20
@@ -381,15 +406,18 @@ Dade, 94, Female, No, Unknown, FL resident, 04/09/20
 Dade, 78, Female, No, No, FL resident, 04/09/20
 Dade, 67, Female, Unknown, , FL resident, 04/09/20
 Dade, 76, Male, Unknown, , FL resident, 04/09/20
+Dade, 57, Male, Unknown, , FL resident, 04/10/20
 Dade, 75, Male, Unknown, Yes, FL resident, 04/10/20
-Dade, 81, Female, Unknown, , FL resident, 04/10/20
-Dade, 71, Male, Unknown, , FL resident, 04/10/20
+Dade, 81, Female, Yes, NY Unknown, FL resident, 04/10/20
+Dade, 71, Male, No, Yes, FL resident, 04/10/20
 Dade, 75, Male, No, Unknown, FL resident, 04/10/20
 Dade, 86, Male, No, Unknown, FL resident, 04/10/20
-Dade, 92, Male, Unknown, Yes, FL resident, 04/10/20
+Dade, 92, Male, No, Yes, FL resident, 04/10/20
+Dade, 65, Male, Unknown, , FL resident, 04/10/20
 Dade, 88, Male, No, No, FL resident, 04/10/20
+Dade, 61, Male, No, Unknown, FL resident, 04/11/20
 Dade, 90, Male, Unknown, , FL resident, 04/11/20
-Dade, 66, Male, Unknown, , FL resident, 04/11/20
+Dade, 66, Male, Unknown, Unknown, FL resident, 04/11/20
 Dade, 55, Female, Unknown, , FL resident, 04/11/20
 Dade, 71, Female, Unknown, , FL resident, 04/11/20
 Dade, 72, Male, No, Unknown, FL resident, 04/11/20
@@ -397,7 +425,7 @@ Dade, 75, Male, Unknown, , FL resident, 04/11/20
 Dade, 55, Male, Unknown, , FL resident, 04/11/20
 Dade, 80, Female, Unknown, Unknown, FL resident, 04/11/20
 Dade, 81, Female, Unknown, , FL resident, 04/12/20
-Dade, 81, Female, Unknown, , FL resident, 04/12/20
+Dade, 81, Female, Unknown, Yes, FL resident, 04/12/20
 Dade, 98, Female, Unknown, , FL resident, 04/12/20
 Dade, 54, Male, No, Unknown, FL resident, 04/12/20
 Dade, 66, Female, Unknown, , FL resident, 04/12/20
@@ -408,24 +436,35 @@ Dade, 72, Male, Unknown, , FL resident, 04/13/20
 Dade, 88, Male, Unknown, , FL resident, 04/13/20
 Dade, 87, Female, No, Yes, FL resident, 04/13/20
 Dade, 89, Female, No, Yes, FL resident, 04/13/20
+Dade, 59, Female, No, No, FL resident, 04/13/20
 Dade, 87, Female, No, Unknown, FL resident, 04/13/20
-Dade, 47, Male, No, , FL resident, 04/13/20
+Dade, 47, Male, No, Yes, FL resident, 04/13/20
 Dade, 86, Female, Unknown, Unknown, FL resident, 04/14/20
+Dade, 51, Female, Unknown, Yes, FL resident, 04/14/20
+Dade, 60, Female, Unknown, , FL resident, 04/14/20
 Dade, 74, Male, Unknown, , FL resident, 04/14/20
 Dade, 58, Male, Unknown, , FL resident, 04/14/20
 Dade, 81, Male, No, Yes, FL resident, 04/14/20
 Dade, 87, Male, Unknown, , FL resident, 04/14/20
 Dade, 69, Female, Unknown, , FL resident, 04/14/20
+Dade, 98, Female, Unknown, , FL resident, 04/14/20
 Dade, 89, Male, Unknown, , FL resident, 04/14/20
+Dade, 82, Female, Unknown, , FL resident, 04/14/20
+Dade, 54, Female, Unknown, , FL resident, 04/14/20
 Dade, 81, Male, Unknown, , FL resident, 04/14/20
+Dade, 69, Female, Unknown, , FL resident, 04/14/20
 Dade, 93, Female, No, , FL resident, 04/15/20
+Dade, 86, Female, Unknown, , FL resident, 04/15/20
 Dade, 87, Male, Unknown, , FL resident, 04/15/20
+Dade, 60, Male, Unknown, , FL resident, 04/16/20
 Dade, 55, Male, Unknown, , FL resident, 04/16/20
 Dade, 96, Female, Unknown, , FL resident, 04/16/20
+Dade, 71, Female, Unknown, , FL resident, 04/16/20
 Dade, 78, Male, No, , FL resident, 04/16/20
 Dade, 65, Female, Unknown, , FL resident, 04/16/20
 Dade, 69, Male, Unknown, , FL resident, 04/17/20
 Dade, 72, Male, No, No, FL resident, 04/18/20
+Dade, 96, Female, Unknown, , FL resident, 04/18/20
 Dade, 26, Male, No, Unknown, FL resident, 04/18/20
 Dade, 96, Male, No, No, FL resident, 04/18/20
 Dade, 66, Female, Unknown, Unknown, FL resident, 04/19/20
@@ -433,7 +472,7 @@ Dade, 72, Male, Unknown, , FL resident, 04/19/20
 Dade, 74, Male, Unknown, , FL resident, 04/19/20
 Dade, 80, Male, Unknown, , FL resident, 04/19/20
 Dade, 92, Male, Unknown, , FL resident, 04/20/20
-Dade, 81, Female, Yes, NY, FL resident, 04/20/20
+Dade, 80, Male, Unknown, , FL resident, 04/21/20
 Dade, 77, Male, Unknown, , FL resident, 04/21/20
 Desoto, 91, Male, No, Yes, FL resident, 03/27/20
 Desoto, 77, Male, No, Yes, FL resident, 04/03/20
@@ -443,7 +482,7 @@ Duval, 83, Male, No, Yes, FL resident, 03/13/20
 Duval, 88, Male, No, Yes, FL resident, 03/15/20
 Duval, 83, Male, No, Yes, FL resident, 03/18/20
 Duval, 84, Male, No, Yes, FL resident, 03/21/20
-Duval, 84, Male, Unknown, , FL resident, 03/21/20
+Duval, 84, Male, No, Unknown, FL resident, 03/21/20
 Duval, 84, Female, No, Yes, FL resident, 03/21/20
 Duval, 82, Female, No, Yes, FL resident, 03/22/20
 Duval, 87, Female, Unknown, , FL resident, 03/23/20
@@ -497,12 +536,14 @@ Hillsborough, 78, Male, Unknown, Yes, FL resident, 04/06/20
 Hillsborough, 55, Male, Unknown, Unknown, FL resident, 04/07/20
 Hillsborough, 64, Female, Yes, NJ Yes, FL resident, 04/10/20
 Hillsborough, 66, Male, Unknown, Unknown, FL resident, 04/12/20
+Hillsborough, 94, Female, Unknown, No, FL resident, 04/12/20
 Hillsborough, 35, Female, Unknown, No, FL resident, 04/13/20
 Hillsborough, 57, Male, No, Yes, FL resident, 04/16/20
 Hillsborough, 92, Female, Unknown, Yes, FL resident, 04/21/20
 Jefferson, 93, Female, No, Yes, FL resident, 04/05/20
 Lake, 70, Female, Yes, FL; NY Yes, FL resident, 03/23/20
 Lake, 74, Female, Yes, EUROPE Yes, FL resident, 03/25/20
+Lake, 60, Female, Yes, TN Yes, FL resident, 03/28/20
 Lake, 84, Male, Yes, ECUADOR; FL Yes, FL resident, 03/29/20
 Lake, 70, Female, No, No, FL resident, 03/29/20
 Lake, 86, Male, Yes, FL; FRANCE; PUERTO RICO Yes, FL resident, 04/01/20
@@ -516,6 +557,7 @@ Lee, 67, Male, No, No, FL resident, 03/24/20
 Lee, 39, Male, No, Yes, FL resident, 03/25/20
 Lee, 94, Male, No, No, FL resident, 03/26/20
 Lee, 77, Male, Yes, FL; NY Yes, FL resident, 03/27/20
+Lee, 62, Female, No, Yes, FL resident, 03/28/20
 Lee, 71, Male, No, Yes, FL resident, 03/30/20
 Lee, 71, Male, No, Yes, FL resident, 03/30/20
 Lee, 83, Male, Unknown, No, FL resident, 03/30/20
@@ -533,11 +575,13 @@ Lee, 74, Male, No, No, FL resident, 04/08/20
 Lee, 70, Male, No, No, FL resident, 04/09/20
 Lee, 93, Female, No, No, FL resident, 04/11/20
 Lee, 97, Female, No, Yes, FL resident, 04/13/20
-Lee, 93, Male, Unknown, , FL resident, 04/14/20
-Lee, 61, Unknown, Unknown, , FL resident, 04/14/20
+Lee, 93, Male, No, Unknown, FL resident, 04/14/20
+Lee, 61, Male, Unknown, , FL resident, 04/14/20
 Lee, 94, Male, No, Unknown, FL resident, 04/16/20
 Lee, 92, Female, No, No, FL resident, 04/19/20
+Lee, 89, Male, Unknown, Unknown, FL resident, 04/22/20
 Leon, 62, Male, No, Yes, FL resident, 04/09/20
+Leon, 81, Female, No, No, FL resident, 04/19/20
 Madison, 89, Male, No, Yes, FL resident, 04/20/20
 Madison, 86, Male, No, Yes, FL resident, 04/20/20
 Manatee, 70, Male, No, Yes, FL resident, 03/16/20
@@ -549,7 +593,9 @@ Manatee, 81, Male, No, No, FL resident, 03/29/20
 Manatee, 77, Male, No, No, FL resident, 03/30/20
 Manatee, 69, Male, No, No, FL resident, 03/31/20
 Manatee, 79, Female, No, No, FL resident, 04/01/20
+Manatee, 75, Female, No, Yes, FL resident, 04/03/20
 Manatee, 75, Male, No, Yes, FL resident, 04/04/20
+Manatee, 80, Female, No, Yes, FL resident, 04/04/20
 Manatee, 75, Female, No, No, FL resident, 04/04/20
 Manatee, 78, Male, No, No, FL resident, 04/06/20
 Manatee, 82, Male, No, No, FL resident, 04/07/20
@@ -577,6 +623,7 @@ Manatee, 61, Female, No, No, FL resident, 04/20/20
 Marion, 88, Male, Yes, GERMANY Unknown, FL resident, 03/27/20
 Marion, 58, Male, No, Yes, FL resident, 04/01/20
 Marion, 49, Female, No, Unknown, FL resident, 04/04/20
+Martin, 82, Male, No, No, FL resident, 04/04/20
 Martin, 77, Male, No, Yes, FL resident, 04/06/20
 Martin, 81, Female, No, No, FL resident, 04/08/20
 Martin, 79, Female, No, No, FL resident, 04/09/20
@@ -598,22 +645,23 @@ Orange, 80, Female, No, No, FL resident, 03/27/20
 Orange, 81, Male, No, Yes, FL resident, 03/28/20
 Orange, 88, Female, No, Yes, FL resident, 03/29/20
 Orange, 87, Male, No, Unknown, FL resident, 03/29/20
-Orange, 68, Male, Unknown, , FL resident, 03/30/20
+Orange, 68, Male, No, Unknown, FL resident, 03/30/20
 Orange, 88, Male, No, Unknown, FL resident, 03/30/20
 Orange, 62, Female, No, Unknown, FL resident, 03/31/20
-Orange, 60, Female, Unknown, , FL resident, 04/02/20
+Orange, 60, Female, Unknown, No, FL resident, 04/02/20
 Orange, 80, Male, No, , FL resident, 04/02/20
 Orange, 60, Male, Unknown, , FL resident, 04/03/20
 Orange, 45, Female, Yes, FL; MI Yes, FL resident, 04/03/20
 Orange, 72, Female, No, Yes, FL resident, 04/05/20
 Orange, 60, Male, No, Yes, FL resident, 04/06/20
+Orange, 93, Male, No, Unknown, FL resident, 04/06/20
 Orange, 85, Female, Unknown, Yes, FL resident, 04/07/20
 Orange, 85, Female, No, No, FL resident, 04/08/20
 Orange, 66, Male, Unknown, , FL resident, 04/09/20
 Orange, 49, Male, No, Yes, FL resident, 04/11/20
 Orange, 83, Male, Unknown, , FL resident, 04/15/20
-Orange, 42, Male, Unknown, , FL resident, 04/19/20
-Orange, 95, Male, Unknown, Unknown, FL resident, 04/19/20
+Orange, 42, Male, No, Yes, FL resident, 04/19/20
+Orange, 95, Male, Unknown, Yes, FL resident, 04/19/20
 Osceola, 58, Male, No, No, FL resident, 03/21/20
 Osceola, 91, Male, Yes, ECUADOR No, FL resident, 03/28/20
 Osceola, 55, Male, No, No, FL resident, 03/28/20
@@ -638,9 +686,11 @@ Pinellas, 85, Male, No, Yes, FL resident, 04/01/20
 Pinellas, 74, Male, No, No, FL resident, 04/09/20
 Pinellas, 80, Male, Yes, NY Unknown, FL resident, 04/09/20
 Pinellas, 79, Male, No, No, FL resident, 04/09/20
+Pinellas, 90, Male, No, Yes, FL resident, 04/10/20
 Pinellas, 66, Male, No, No, FL resident, 04/12/20
 Pinellas, 84, Female, No, No, FL resident, 04/12/20
 Pinellas, 96, Female, No, No, FL resident, 04/16/20
+Pinellas, 75, Male, No, No, FL resident, 04/16/20
 Pinellas, 90, Female, No, Yes, FL resident, 04/17/20
 Polk, 77, Female, No, No, FL resident, 03/20/20
 Polk, 60, Male, No, Yes, FL resident, 03/21/20
@@ -650,10 +700,12 @@ Polk, 68, Male, No, Yes, FL resident, 04/02/20
 Polk, 66, Female, Yes, FL; GA Yes, FL resident, 04/02/20
 Polk, 84, Male, No, Yes, FL resident, 04/03/20
 Polk, 86, Male, Unknown, No, FL resident, 04/05/20
+Polk, 84, Male, No, Yes, FL resident, 04/08/20
 Polk, 91, Male, No, Unknown, FL resident, 04/09/20
 Polk, 85, Female, No, Yes, FL resident, 04/09/20
 Polk, 85, Female, No, Yes, FL resident, 04/09/20
 Polk, 90, Male, No, , FL resident, 04/13/20
+Polk, 82, Male, No, Yes, FL resident, 04/14/20
 Polk, 87, Male, No, Unknown, FL resident, 04/14/20
 Polk, 82, Female, No, Yes, FL resident, 04/17/20
 Polk, 44, Male, No, No, FL resident, 04/20/20
@@ -694,6 +746,7 @@ Seminole, 68, Female, No, Yes, FL resident, 04/02/20
 Seminole, 62, Male, No, Yes, FL resident, 04/08/20
 Seminole, 79, Male, No, Unknown, FL resident, 04/09/20
 Seminole, 76, Female, No, Yes, FL resident, 04/15/20
+Seminole, 72, Male, No, Yes, FL resident, 04/15/20
 Seminole, 72, Male, No, Yes, FL resident, 04/16/20
 Sumter, 67, Female, Yes, Yes, FL resident, 03/21/20
 Sumter, 68, Male, No, No, FL resident, 03/23/20
@@ -706,6 +759,7 @@ Sumter, 76, Male, No, No, FL resident, 03/31/20
 Sumter, 69, Male, No, Yes, FL resident, 04/01/20
 Sumter, 89, Female, No, Yes, FL resident, 04/04/20
 Sumter, 89, Male, No, Yes, FL resident, 04/14/20
+Sumter, 78, Female, No, Yes, FL resident, 04/17/20
 Suwannee, 80, Male, No, Yes, FL resident, 04/03/20
 Suwannee, 78, Female, Unknown, Yes, FL resident, 04/03/20
 Suwannee, 74, Male, No, Yes, FL resident, 04/05/20
