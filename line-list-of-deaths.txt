@@ -114,7 +114,6 @@ Broward, 44, Male, No, No, FL resident, 04/02/20
 Broward, 90, Female, No, Yes, FL resident, 04/02/20
 Broward, 74, Male, No, Unknown, FL resident, 04/02/20
 Broward, 80, Female, Yes, NJ Yes, FL resident, 04/02/20
-Broward, 85, Female, Yes, FL; NY Unknown, FL resident, 04/02/20
 Broward, 65, Male, No, Yes, FL resident, 04/03/20
 Broward, 75, Male, No, Unknown, FL resident, 04/03/20
 Broward, 85, Female, No, No, FL resident, 04/03/20
@@ -389,7 +388,9 @@ Broward, 81, Female, No, Yes, FL resident, 05/30/20
 Broward, 75, Male, No, Yes, FL resident, 05/31/20
 Broward, 84, Female, Unknown, Yes, FL resident, 06/02/20
 Broward, 78, Male, No, No, FL resident, 06/04/20
+Broward, 76, Female, No, Unknown, FL resident, 06/04/20
 Broward, 92, Male, No, Yes, FL resident, 06/05/20
+Broward, 77, Male, No, Yes, FL resident, 06/07/20
 Broward, 87, Female, No, Unknown, FL resident, 06/08/20
 Calhoun, 71, Male, No, Unknown, FL resident, 05/01/20
 Calhoun, 89, Female, No, Yes, FL resident, 05/01/20
@@ -1303,6 +1304,7 @@ Dade, 75, Female, No, Unknown, FL resident, 05/16/20
 Dade, 86, Female, Unknown, Unknown, FL resident, 05/16/20
 Dade, 81, Male, No, Yes, FL resident, 05/16/20
 Dade, 78, Female, Unknown, , FL resident, 05/16/20
+Dade, 72, Male, Unknown, No, FL resident, 05/16/20
 Dade, 89, Male, No, Yes, FL resident, 05/17/20
 Dade, 98, Female, No, Yes, FL resident, 05/17/20
 Dade, 86, Male, Unknown, Unknown, FL resident, 05/17/20
@@ -2013,7 +2015,7 @@ Orange, 93, Male, No, No, FL resident, 05/04/20
 Orange, 63, Female, No, Yes, FL resident, 05/11/20
 Orange, 80, Male, Yes, NJ Yes, FL resident, 05/12/20
 Orange, 55, Male, No, Yes, FL resident, 05/18/20
-Orange, 80, Male, No, No, FL resident, 05/19/20
+Orange, 80, Male, No, Yes, FL resident, 05/19/20
 Orange, 60, Male, Yes, UNITED KINGDOM Yes, FL resident, 05/24/20
 Orange, 44, Male, No, Unknown, FL resident, 06/05/20
 Osceola, 58, Male, No, No, FL resident, 03/21/20
@@ -2422,6 +2424,7 @@ Volusia, 85, Male, No, Yes, FL resident, 05/27/20
 Volusia, 80, Female, No, Unknown, FL resident, 05/29/20
 Volusia, 77, Male, No, Yes, FL resident, 06/01/20
 Volusia, 94, Male, No, Yes, FL resident, 06/01/20
+Volusia, 91, Female, No, Yes, FL resident, 06/08/20
 Wakulla, 65, Male, No, Yes, FL resident, 04/01/20
 Walton, 94, Female, No, Yes, FL resident, 05/01/20
 Walton, 66, Male, No, Yes, FL resident, 05/01/20
